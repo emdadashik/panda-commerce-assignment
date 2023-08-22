@@ -1,0 +1,65 @@
+.search{
+    border-radius: 15px;
+    width: 500px;
+}
+.carousel-tv{
+    background: #FEEAE9;
+    border-radius: 10px;
+}
+.color{
+    color: #ff136f;
+}
+.btn1{
+    color: #FEEAE9;
+    font-weight: 700;
+    padding: 12px 28px;
+    border-radius: 9px;
+    background-image: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
+}
+.watch{
+    border-radius: 18px;
+    background-image: linear-gradient(126deg, #ff9c35 0%, #ffd019 100%);
+}
+.bag{
+    border-radius: 18px;
+    background-image: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
+}
+.shoe{
+    border-radius: 18px;
+    background-image: linear-gradient(157deg, #4289ff 0%, #3f07f8 100%);
+}
+.w-30{
+    width: 30%;
+}
+.item{
+    width: 30%;
+    height: 525px;
+    border-radius: 21px;
+    filter: drop-shadow(0px 10px 28.5px rgba(0,0,0,0.05));
+    background-color: #ffffff;
+}
+.item img{
+    width: 350px;
+}
+.btn2{
+    border-radius: 9px;
+    background-color: #000000;
+    color: white;
+    padding: 12px 22px;
+}
+.bags-section img{
+    width: 300px;
+}
+.news{
+    margin-bottom: 30px;
+    padding: 120px;
+    border-radius: 23px;
+    background-color: #feeae9;
+}
+.haha{
+    border: none;
+    margin-right: -10px;
+    height: 56px;
+    width: 325px;
+    border-radius: 9px;
+}
